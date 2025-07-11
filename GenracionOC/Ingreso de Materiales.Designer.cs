@@ -119,7 +119,7 @@
             // 
             cmbOC.DropDownStyle = ComboBoxStyle.DropDownList;
             cmbOC.Font = new Font("Segoe UI", 10F);
-            cmbOC.Location = new Point(200, 128);
+            cmbOC.Location = new Point(200, 131);
             cmbOC.Name = "cmbOC";
             cmbOC.Size = new Size(180, 31);
             cmbOC.TabIndex = 6;
